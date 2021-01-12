@@ -1,6 +1,6 @@
 # FunWithNumbers
 
-A simple maths game, solve as many question as you can in 60sec and score more.
+A simple maths game,</br> solve as many question as you can in 60sec and score more.</br>
 Just for fun :D
 
 
